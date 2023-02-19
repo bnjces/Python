@@ -9,3 +9,11 @@ print(len(myName))
 print('What is your age?') # ask for their age
 myAge = input()
 print('You will be ' + str(int(myAge) + 1) + ' in a year.')
+print('Are you having a good day?')
+myAnswer = input()
+if myAnswer == 'Yes':
+    print('Glad to hear it!')
+elif myAnswer !='Yes':
+        print('Oh, well I hope the rest of your day goes as well as possible!')
+        
+  
