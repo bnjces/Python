@@ -1,4 +1,5 @@
-# This is a guess the number game. 3/2/2023
+# This is a guess the number game. 3/2/2023 - Udemy Python
+
 
 import random  #import random module for using randint
 print('Hey! What is your name?')
